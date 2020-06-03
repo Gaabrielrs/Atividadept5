@@ -17,5 +17,6 @@ Suprime-se o número 1. O número 2 é o menor número primo. A partir do que lh
 O primeiro não riscado é 5, que será número primo, e a partir de 6 cortamos todos os múltiplos de cinco.
 
 Questão 14) Descreva o algoritmo de número decimal para binário :
+
 O coversor de base decimal recebe um número decimal e converte em binário, octal e hexadecimal.
 Você também pode converter das outras bases para decimal.
